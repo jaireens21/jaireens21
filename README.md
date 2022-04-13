@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaireens21
+- 👋 Hi, I’m @jaireens21, a budding web developer.
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning React.
 
-- 📫 How to reach me jaireen.s21@gmail.com
+- 📫 Reach me at: jaireen.s21@gmail.com
 
 <!---
 jaireens21/jaireens21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
