@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaireens21
 
-- 🌱 I’m currently learning web development, javascript, node.js
+- 🌱 I’m currently learning web development
 
 - 📫 How to reach me jaireen.s21@gmail.com
 
